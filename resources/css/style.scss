@@ -1,0 +1,31 @@
+body{
+    direction: rtl;
+    font-family: 'Iransans', sans-serif;
+    background: rgb(125,125,125);
+    background: linear-gradient(101deg, rgba(125,125,125,1) 0%, rgba(47,59,80,1) 100%);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.head h1{
+    padding: 10px;
+    text-align: center;
+}
+.head{
+    background-color: #a2b5f6;
+    width: 70%;
+    height: 20%;
+    margin-top: 10px;
+}
+.nav{
+    background-color: #0c2357;
+    width: 100%;
+}
+.modir{
+    margin-left: 10px;
+}
+//Register-User page styles.
+.form-check{
+    margin-top: 15px;
+}

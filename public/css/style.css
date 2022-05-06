@@ -1,0 +1,36 @@
+body {
+  direction: rtl;
+  font-family: "Iransans", sans-serif;
+  background: rgb(125, 125, 125);
+  background: linear-gradient(101deg, rgb(125, 125, 125) 0%, rgb(47, 59, 80) 100%);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.head h1 {
+  padding: 10px;
+  text-align: center;
+}
+
+.head {
+  background-color: #a2b5f6;
+  width: 70%;
+  height: 20%;
+  margin-top: 10px;
+}
+
+.nav {
+  background-color: #0c2357;
+  width: 100%;
+}
+
+.modir {
+  margin-left: 10px;
+}
+
+.form-check {
+  margin-top: 15px;
+}
